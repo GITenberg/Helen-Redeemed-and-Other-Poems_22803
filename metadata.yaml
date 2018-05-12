@@ -1,0 +1,29 @@
+_repo: Helen-Redeemed-and-Other-Poems_22803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hewlett, Maurice
+    alias: Hewlett, Maurice Henry
+    birthdate: 1861
+    deathdate: 1923
+    gutenberg_agent_id: '1864'
+    url: http://www.gutenberg.org/2009/agents/1864
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
+description: ''
+gutenberg_issued: '2007-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22803'
+  lccn: '13013383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Helen Redeemed and Other Poems
+url: http://www.gutenberg.org/ebooks/22803
